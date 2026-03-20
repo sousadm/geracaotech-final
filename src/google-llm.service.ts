@@ -25,4 +25,5 @@ export class GoogleLlmService {
       throw new Error(`Erro ao enviar prompt para Google LLM: ${error.message}`);
     }
   }
+
 }

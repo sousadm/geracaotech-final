@@ -1,6 +1,6 @@
 import { Cliente } from "./cliente";
 
-export class response {
+export class ClienteResponse {
   cliente: Cliente;
   resposta: string;
   status: string;
