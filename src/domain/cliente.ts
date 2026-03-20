@@ -1,4 +1,4 @@
-export class Client {
+export class Cliente {
   nome: string;
   telefone: string;
   piscina: boolean;
